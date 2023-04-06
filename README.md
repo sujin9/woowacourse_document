@@ -13,6 +13,11 @@
 |미션|Repository|1단계 PR링크|2단계 PR링크|
 |---|---|:---:|:---:|
 |자동차 경주 게임|[kotlin-racingcar](https://github.com/woowacourse/kotlin-racingcar/tree/sujin9)|[PR_step1](https://github.com/woowacourse/kotlin-racingcar/pull/52)|[PR_step2](https://github.com/woowacourse/kotlin-racingcar/pull/61)|
+|로또|[kotlin-lotto](https://github.com/woowacourse/kotlin-lotto/tree/sujin9)|[PR_step1](https://github.com/woowacourse/kotlin-lotto/pull/10)|[PR_step2](https://github.com/woowacourse/kotlin-lotto/pull/35)|
+|블랙잭|[kotlin-blackjack](https://github.com/woowacourse/kotlin-blackjack/tree/sujin9)|[PR_step1](https://github.com/woowacourse/kotlin-blackjack/pull/15)|[PR_step2](https://github.com/woowacourse/kotlin-blackjack/pull/47)|
+|오목|[kotlin-omok](https://github.com/woowacourse/kotlin-omok/tree/sujin9)|[PR_step1](https://github.com/woowacourse/kotlin-omok/pull/25)|[PR_step2](https://github.com/woowacourse/kotlin-omok/pull/49)|
 
+✏️ 글쓰기 미션
+[우테코 한 달 생활기](https://github.com/sujin9/woowa-writing-5/tree/sujin9)
 
 ## 2. Level 2
