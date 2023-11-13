@@ -79,6 +79,8 @@
 
 ## 3. Level 3
 
+**합리적인 소민을 고민하는 당신을 위한 소비 고민 커뮤니티 서비스, 이돈이면**
+
 [이돈이면 팀 프로젝트](https://github.com/woowacourse-teams/2023-edonymyeon)
 
 [이돈이면 플레이스토어 다운로드](https://play.google.com/store/apps/details?id=app.edonymyeon)
@@ -123,8 +125,21 @@
 
 ### 💼 근로
 
+**학습**
+
+피그마 사용법 학습
+
+컴포즈 학습
+
+<br/>
+
+**우아한테크코스 내의 공지 및 출결 관리 앱**
+
+[Campus](https://github.com/sujin9/woowa_campus_android)
+
 <br/>
 
 ### 📚 스터디
-[개발 서적 읽기](https://github.com/woowacourse-study/2023-fun-readBook-AN/tree/sujin9)
-[cs 스터디](https://github.com/woowacourse-study/2023-cs-study/tree/sujin9)
+[개발 서적 읽기](https://github.com/woowacourse-study/2023-fun-readBook-AN/tree/sujin9) <br/>
+[cs 스터디](https://github.com/woowacourse-study/2023-cs-study/tree/sujin9) <br/>
+[Compose 스터디](https://github.com/Woowang-Compose/Ssu)
