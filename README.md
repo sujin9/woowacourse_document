@@ -141,5 +141,5 @@
 
 ### 📚 스터디
 [개발 서적 읽기](https://github.com/woowacourse-study/2023-fun-readBook-AN/tree/sujin9) <br/>
-[cs 스터디](https://github.com/woowacourse-study/2023-cs-study/tree/sujin9) <br/>
+[cs 스터디 & 개발 서적 읽기](https://github.com/woowacourse-study/2023-cs-study/tree/sujin9) <br/>
 [Compose 스터디](https://github.com/Woowang-Compose/Ssu)
